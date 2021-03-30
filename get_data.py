@@ -16,5 +16,3 @@ urllib.request.urlretrieve(url, filename=data_dir+'mvtecad.tar.xz', reporthook=_
 #unzip
 with tarfile.open(data_dir+'mvtecad.tar.xz', 'r:xz') as tar:
     tar.extractall(path=data_dir)
-
-aaa=1
