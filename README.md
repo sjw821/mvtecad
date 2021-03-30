@@ -1,4 +1,4 @@
 # mvtecad
 download the original files & unzip
 
-change 'current_dir' and 'data_dir' before you run the code
+> Before you run the code, change the path in the variables, 'current_dir' and 'data_dir' 
